@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF324057</color>
+    <color name="primary_dark">#FF324057</color>
+    <color name="primary_light">#FF45ABE0</color>
+
+    <color name="accent">#FF45ABE0</color>
+
+    <color name="white">#ffffff</color>
+    <color name="grey">#9B9B9B</color>
+    <color name="bg_ggrey">#C5C5C5</color>
+    <color name="black">#000000</color>
+
+    <!--登陆界面"登陆"按钮的背景色-->
+    <color name="login_red">#EA2926</color>
+
+</resources>
